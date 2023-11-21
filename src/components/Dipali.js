@@ -4,6 +4,7 @@ const Dipali=()=>{
     return(
         <div>
             <h1>dipali</h1>
+            <h1>dipali</h1>
         </div>
     )
 }
